@@ -10,7 +10,7 @@ Cocok untuk latihan pemula Python yang ingin mencoba library **phonenumbers**.
 - Validasi format nomor (valid / tidak valid)
 - Menampilkan informasi **region (negara / area)** berdasarkan kode negara
 - Bisa dikembangkan lebih lanjut untuk:
-  - Deteksi **operator (carrier)**
+  - Deteksi **operator**
   - Deteksi **timezone**
   - Export hasil ke file `.txt` / `.csv`
 
